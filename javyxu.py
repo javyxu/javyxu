@@ -20,7 +20,7 @@ panel = Panel.fit(
     about, box=box.DOUBLE, border_style="blue", title="[b]Hi there", width=60
 )
 
-console.print(Columns([panel, tree]))
+# console.print(Columns([panel, tree]))
 
 CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
