@@ -11,6 +11,7 @@ console = Console(record=True, width=100)
 tree = Tree("🤓 [link=https://javyxu.cn/]Javy Xu", guide_style="bold cyan")
 full_stack_tree = tree.add("🔧 Full-stack developer")
 tree.add("📘 Author")
+tree.add("📘 Test")
 
 about = """\
 I am a full-stack developer with expertise in Python, Golang and C++, focusing on AI engineering and cloud native"""
