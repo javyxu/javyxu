@@ -33,6 +33,5 @@ jobs:
           python3 javyxu.py
       - name: Commit and push if needed
         run: |-
-          git add -A
-          git commit -m "Updated README.md automatically" || exit 0
+          git commit -am "Updated README.md automatically"
           git push
