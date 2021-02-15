@@ -27,5 +27,12 @@ jobs:
       # Runs a single command using the runners shell
       - name: Install Python Deps
         run: |
-          echo 'install rich'
-          pip3 -V
+          pip3 install rich==9.10.0
+      - name: Fetch stats and update README.md
+        run: |
+          python javyxu.py
+      - name: Commit and push if needed
+        run: |-
+          git add -A
+          git commit -m "Updated README.md automatically" || exit 0
+          git push
