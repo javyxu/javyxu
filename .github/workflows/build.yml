@@ -33,5 +33,7 @@ jobs:
           python3 javyxu.py
       - name: Commit and push if needed
         run: |-
+          git config --global user.email "xujavy@gmail.com"
+          git config --global user.name "javy.xu"
           git commit -am "Updated README.md automatically"
           git push
