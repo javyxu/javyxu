@@ -30,7 +30,7 @@ jobs:
           pip3 install rich==9.10.0
       - name: Fetch stats and update README.md
         run: |
-          python javyxu.py
+          python3 javyxu.py
       - name: Commit and push if needed
         run: |-
           git add -A
