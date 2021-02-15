@@ -28,4 +28,4 @@ jobs:
       - name: Install Python Deps
         run: |
           echo 'install rich'
-          echo pip3 -v
+          pip3 -V
