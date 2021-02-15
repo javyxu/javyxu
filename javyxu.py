@@ -10,6 +10,7 @@ console = Console(record=True, width=100)
 
 tree = Tree("🤓 [link=https://javyxu.cn/]Javy Xu", guide_style="bold cyan")
 full_stack_tree = tree.add("🔧 Full-stack developer")
+tree.add("🌍 GIS")
 tree.add("📘 Author")
 
 about = """\
