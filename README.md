@@ -4,3 +4,6 @@
 <span style="color: #000080">║</span> native                                                   <span style="color: #000080">║</span>                            
 <span style="color: #000080">╚══════════════════════════════════════════════════════════╝</span>                            
 </pre>
+<p align="center">
+	<a href="https://github.com/javyxu"><img src="https://img.shields.io/github/followers/javyxu.svg?label=GitHub&style=social" alt="GitHub"></a>
+</p>
