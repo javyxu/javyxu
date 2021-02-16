@@ -3,4 +3,5 @@
 <span style="color: #000080">║</span> Golang and C++, focusing on AI engineering and cloud     <span style="color: #000080">║</span> <span style="color: #008080">┗━━ </span>🌍 GIS                 
 <span style="color: #000080">║</span> native                                                   <span style="color: #000080">║</span>                            
 <span style="color: #000080">╚══════════════════════════════════════════════════════════╝</span>                            
-<p align="left"><a href="https://github.com/javyxu"><img src="https://img.shields.io/github/followers/javyxu.svg?label=GitHub&style=social" alt="GitHub"></a></p></pre>
+
+<a href="https://github.com/javyxu"><img src="https://img.shields.io/github/followers/javyxu.svg?label=GitHub&style=social" alt="GitHub"></a></pre>
