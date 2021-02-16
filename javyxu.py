@@ -23,6 +23,9 @@ console.print(Columns([panel, tree]))
 
 CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
+<p align="center">
+	<a href="https://github.com/javyxu"><img src="https://img.shields.io/github/followers/javyxu.svg?label=GitHub&style=social" alt="GitHub"></a>
+</p>
 """
 
 console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
