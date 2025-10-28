@@ -1,5 +1,6 @@
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
-<span style="color: #000080">╔════════════════════════ </span><span style="color: #000080; font-weight: bold">Hi there</span><span style="color: #000080"> ════════════════════════╗</span> 🤓 <a href="https://metageo.cloud/">Javy Xu</a>                 
+<div style="text-align: center;">
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace; display:inline-block; text-align:left;">
+<span style="color: #000080">╔════════════════════════ </span><span style="color: #000080; font-weight: bold">Hi there</span><span style="color: #000080"> ════════════════════════╗</span> 🤓 <a href="https://metageo.cloud/">Javy</a>                 
 <span style="color: #000080">║I am a Full-Stack Developer with expertise in:            <span style="color: #000080">║</span> <span style="color: #008080">┣━━ </span>🔧 Full-Stack Developer
 <span style="color: #000080">║  • Python / Vue3 / React / Rust / C++                    <span style="color: #000080">║</span> <span style="color: #008080">┣━━ </span>🌍 GISer
 <span style="color: #000080">║  • PostgreSQL / PostGIS / PGVevctor / TimescaleDB / Age  <span style="color: #000080">║</span> <span style="color: #008080">┣━━ </span>🌍 GeoAI
@@ -14,3 +15,4 @@
 <img src="https://github-profile-trophy-five-sandy.vercel.app/api?username=javyxu&theme=light&margin-w=15&margin-h=15&row=2&column=5&no-bg=true&no-frame=true" alt="Javy's GitHub Trophies" />
 </a>
 </pre>
+</div>
