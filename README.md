@@ -11,7 +11,7 @@
 <span style="color: #000080">╚══════════════════════════════════════════════════════════╝</span> <span style="color: #008080">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy-javyxus-projects.vercel.app/?username=javyxu&theme=flat&margin-w=15&margin-h=15" alt="Javy's GitHub Trophies" />
+<img src="https://github-profile-trophy-five-sandy.vercel.app/api?username=javyxu&theme=light" alt="Javy's GitHub Trophies" />
 </a>
 <a href="https://github.com/javyxu">
 <img src="https://img.shields.io/github/followers/javyxu.svg?label=GitHub&style=social" alt="GitHub" />
