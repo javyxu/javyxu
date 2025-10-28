@@ -11,15 +11,15 @@
 <span style="color: #000080">╚══════════════════════════════════════════════════════════╝</span> <span style="color: #008080">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=javyxu&theme=flat&margin-w=15&margin-h=15" alt="Javy Xu's GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=javyxu&theme=flat&margin-w=15&margin-h=15" alt="Javy Xu's GitHub Trophies" />
 </a>
 <a href="https://github.com/javyxu">
-  <img src="https://img.shields.io/github/followers/javyxu.svg?label=GitHub&style=social" alt="GitHub" />
+<img src="https://img.shields.io/github/followers/javyxu.svg?label=GitHub&style=social" alt="GitHub" />
 </a>
 <a href="https://github.com/javyxu">
-  <img src="https://github-readme-stats.vercel.app/api?username=javyxu&show_icons=true&theme=tokyonight"/ >
+<img src="https://github-readme-stats.vercel.app/api?username=javyxu&show_icons=true&theme=tokyonight"/ >
 </a>
 <a href="https://github.com/javyxu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javyxu&count_private=true&layout=compact&langs_count=10&exclude_repo=6.824-2018" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javyxu&count_private=true&layout=compact&langs_count=10&exclude_repo=6.824-2018" />
 </a>
 </pre>
