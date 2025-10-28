@@ -14,9 +14,6 @@
 <img src="https://github-profile-trophy-five-sandy.vercel.app/api?username=javyxu&theme=light" alt="Javy's GitHub Trophies" />
 </a>
 <a href="https://github.com/javyxu">
-<img src="https://img.shields.io/github/followers/javyxu.svg?label=GitHub&style=social" alt="GitHub" />
-</a>
-<a href="https://github.com/javyxu">
 <img src="https://github-readme-stats.vercel.app/api?username=javyxu&show_icons=true&theme=tokyonight"/ >
 </a>
 <a href="https://github.com/javyxu">
