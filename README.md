@@ -13,10 +13,4 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy-five-sandy.vercel.app/api?username=javyxu&theme=light&margin-w=15&margin-h=15" alt="Javy's GitHub Trophies" />
 </a>
-<a href="https://github.com/javyxu">
-<img src="https://github-readme-stats.vercel.app/api?username=javyxu&show_icons=true&theme=tokyonight"/ >
-</a>
-<a href="https://github.com/javyxu">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javyxu&count_private=true&layout=compact&langs_count=10&exclude_repo=6.824-2018" />
-</a>
 </pre>
