@@ -1,109 +1,46 @@
 <div align="center">
 
 <pre>
-╔═══════════════════════ Hi there ═══════════════════════╗
+╔══════════════════════ Hi there ══════════════════════╗
 
 👋 I'm Javy
 
 AI-native Data Systems Engineer
 
-Building intelligent platforms at the intersection of:
+Building AI-native Data & Geospatial Platforms
 
-  • Lakehouse & Data Platforms
-  • Metadata, Lineage & Governance
-  • GeoAI & Spatial Intelligence
-  • Agent Systems & MCP
-  • Cloud Native Infrastructure
-  • AI-Augmented Development
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Current Focus
 
-🏗 Platform & Architecture
+🌊 Lakehouse & Metadata Intelligence
+🤖 Agentic Data Systems & MCP
+🗺️ GeoAI & Spatial Intelligence
+⚡ Ray / Daft / DataFusion
+☁ Cloud Native Platforms
+💻 AI-Augmented Development
 
-  • AI-native Platform Design
-  • Distributed Data Systems
-  • Metadata Intelligence
-  • Data Governance & Observability
-  • Lakehouse Architecture
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📊 Data Engineering
+Vision
 
-  • LakeSoul / Apache Iceberg / Hudi
-  • Spark / Flink
-  • Ray / Daft / DataFusion
-  • PostgreSQL / PostGIS / PGVector
-  • TimescaleDB / Apache AGE
+AI-native Data Systems Engineer
+          ↓
+AI-native Platform Architect
 
-🤖 AI Engineering
+Designing platforms where
 
-  • LLM Applications
-  • Agent Systems & MCP
-  • RAG & Knowledge Platforms
-  • AIOps & Intelligent Operations
-  • AI-native Workflows
-
-💻 AI Coding
-
-  • Zed + Frontier Models
-  • Claude Code
-  • CodeX
-  • DeepSeek
-  • OpenAI GPT
-  • Gemini
-  • AI-Assisted Software Engineering
-
-🗺️ Geospatial Intelligence
-
-  • GIS & Spatial Computing
-  • GeoAI
-  • Spatial Analytics
-  • Geospatial Data Infrastructure
-
-☁ Cloud Native
-
-  • Kubernetes
-  • CNCF Ecosystem
-  • GitOps
-  • Platform Engineering
-  • Observability
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🔭 Current Focus
-
-  🌊 AI-native Data Platform
-  📚 Metadata & Lineage Intelligence
-  🤖 Agentic Data Systems
-  ⚡ Ray / Daft / DataFusion
-  🗺️ GeoAI & Spatial Intelligence
-  💻 AI-Augmented Development
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 Vision
-
-Evolving from an AI-native Data Systems Engineer
-to an AI-native Platform Architect,
-
-building the next generation of platforms where:
-
-      Data
-         +
-      Metadata
-         +
-      Agents
-         +
-      Geospatial Intelligence
+Data + Metadata + Agents + Geospatial Intelligence
 
 work together seamlessly at scale.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Mission
 
 Turning Data Platforms into Intelligent Systems.
 
-╚════════════════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════╝
 </pre>
 
 <br/>
