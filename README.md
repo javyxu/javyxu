@@ -25,7 +25,7 @@ Current Focus
 Vision
 
 AI-native Data Systems Engineer
-          ↓
+↓
 AI-native Platform Architect
 
 Designing platforms where
