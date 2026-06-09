@@ -49,4 +49,11 @@ Turning Data Platforms into Intelligent Systems.
   <img src="https://github-profile-trophy-five-sandy.vercel.app/api?username=javyxu&theme=light&margin-w=15&margin-h=15&row=2&column=5&no-bg=true&no-frame=true" alt="Javy's GitHub Trophies" />
 </a>
 
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javyxu/javyxu/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javyxu/javyxu/output/pacman-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/javyxu/javyxu/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
