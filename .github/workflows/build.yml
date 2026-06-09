@@ -36,20 +36,4 @@ jobs:
             build_dir: dist
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
-      - name: Install Python Deps
-        run: |
-          pip3 install rich==9.10.0
-      - name: Fetch stats and update README.md
-        run: |
-          python3 javyxu.py
-      - name: Commit and push if needed
-        run: |-
-          git config --global user.email "xujavy@gmail.com"
-          git config --global user.name "javy.xu"
-          git commit -am "Updated README.md automatically" || exit 0
-          git push
+        
