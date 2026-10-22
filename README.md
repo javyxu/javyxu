@@ -45,7 +45,7 @@ Turning Data Platforms into Intelligent Systems.
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/javyxu/github-profile-trophy">
   <img src="https://github-profile-trophy-five-sandy.vercel.app/api?username=javyxu&theme=light&margin-w=15&margin-h=15&row=2&column=5&no-bg=true&no-frame=true" alt="Javy's GitHub Trophies" />
 </a>
 
